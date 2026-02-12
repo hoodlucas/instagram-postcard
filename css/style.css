@@ -1,0 +1,26 @@
+h1 {
+    color:red;
+}
+
+body{
+    background-color: black;
+}
+
+.card {
+    background-color: white;
+    width: 40%;
+    margin:auto;
+
+}
+
+div.header-card {
+    padding: 20px;
+}
+
+div.image img {
+    width: 100%;
+}
+
+div.content-card {
+    padding: 20px;
+}
